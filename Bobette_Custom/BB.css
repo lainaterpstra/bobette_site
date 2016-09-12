@@ -1,0 +1,43 @@
+
+ 
+#subtitle {
+
+font-size: 12px;
+letter-spacing: 5px;
+padding: 20px;
+
+ }
+ 	
+ 
+ .navbar-default .navbar-brand {
+ 	font-family: 'Lato', sans-serif;
+ 	font-size: 50px;
+ 	color: black;
+ 	letter-spacing: 8px;
+ 	border-width: 2px;
+
+ }
+
+
+ .navbar-default .navbar-nav li a  {
+  color: black;
+  font-family: 'Lato', sans-serif;
+  font-size: 10px;
+
+ }
+ #quote {
+ 	font-style: italic;
+ 	font-size: 15px;
+ }
+
+ #homebio {
+ 	line-height: 25px;
+ }
+
+
+#bookimgage {
+ 	
+ 	height: 250px;
+ 	padding-left: 20px;
+ }
+
